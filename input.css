@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    background-color: #F0D300;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #80D90B;
+}
+
+p {
+    font-size: 2rem;
+    color: #FC590D;
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 60%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #FC590D;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+
+}
